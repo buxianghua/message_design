@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f271239-2d73-4b9c-8c33-3d4f1c86b0f3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="b9a9cd74-3f00-4b68-83c7-b4e9925fceb5" name="message" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1R5rd88tsoTaFf2S3ZrJPYitgQp" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ctf" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\develop\phpstudy_pro\WWW\message\ctf" />
+      <recent name="D:\develop\phpstudy_pro\WWW\message" />
+      <recent name="D:\develop\phpstudy_pro\WWW\message\framework" />
+      <recent name="D:\develop\phpstudy_pro\WWW\message\application\home\view" />
+      <recent name="D:\develop\phpstudy_pro\WWW\message\application\home\controler" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\develop\phpstudy_pro\WWW\message\application\home\view" />
+      <recent name="D:\develop\phpstudy_pro\WWW\message\application\home" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="message" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="message" start_url="/message/index.php">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f271239-2d73-4b9c-8c33-3d4f1c86b0f3" name="Default Changelist" comment="" />
+      <created>1568967882841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568967882841</updated>
+      <workItem from="1568967884081" duration="6625000" />
+      <workItem from="1569030546202" duration="3494000" />
+      <workItem from="1569112510226" duration="1201000" />
+      <workItem from="1569304735237" duration="1807000" />
+      <workItem from="1569464130559" duration="15896000" />
+      <workItem from="1569506230330" duration="3335000" />
+      <workItem from="1569509583557" duration="744000" />
+      <workItem from="1569545736312" duration="2032000" />
+      <workItem from="1569548044978" duration="12116000" />
+      <workItem from="1569568815156" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
